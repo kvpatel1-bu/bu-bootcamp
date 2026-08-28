@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.project.sourcePaths": [
+        "module2",
+        "module3"
+    ],
+    "java.project.outputPath": "out"
+}
