@@ -1,12 +1,11 @@
 # BU CS Foundations Bootcamp
- 
-This repository contains my work for the Boston University
-Online AI Programs CS Foundations Bootcamp.
- 
-## Structure
-- module1/ : Development environment and first Java programs
-- module2/ : Programming fundamentals (variables, control flow, methods, files)
-- module3/ : Data structures and object-oriented basics
- 
-## Programs
-Each module folder contains the Java source files from that module’s activity. 
+
+This repository includes the projects and coding activities I completed for the Boston University Online AI Programs CS Foundations Bootcamp.
+
+## Repository Structure
+
+The work is organized by module:
+
+- `module1/`  - > Dev environment setup
+- `module2/`  - > Java Fundamentals
+- `module3/`  - > Data Structures
